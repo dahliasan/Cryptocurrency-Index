@@ -1,0 +1,12 @@
+name: crypto_index_plotly
+title:
+username:
+account: dahliafoo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 349832
+bundleId: 1396388
+url: https://dahliafoo.shinyapps.io/crypto_index_plotly/
+when: 1527504132.80123
+asMultiple: FALSE
+asStatic: FALSE
